@@ -1,0 +1,3 @@
+https://jovial-agnesi-523dab.netlify.app old
+https://silly-nightingale-35c7b4.netlify.app new
+https://app.netlify.com/sites/jovial-agnesi-523dab/overview  settings of web page
